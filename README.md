@@ -1,2 +1,2 @@
 # AppDes2Uebung2
-jQueryMobile
+Sample Projekt jQueryMobile
